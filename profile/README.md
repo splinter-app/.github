@@ -5,6 +5,7 @@
 ## Overview
 
 Splinter is an open-source ingestion pipeline designed to transform unstructured data into vectorized formats for integration with knowledge bases. By automating document ingestion and vector embedding, Splinter enables teams to easily convert raw, unstructured content into a format optimized for AI and machine learning applications.
+
 The pipeline accepts a user-provided source container, where documents are uploaded. Once a document is added, Splinter processes the content by extracting meaningful features and converting them into vector embeddings using advanced machine learning models. These embeddings are then stored in a user-provided database, making them ready for integration with downstream AI systems.
 
 To learn more about Splinter, visit our [website](https://splinter.com/) and [case study](https://splinter.com/case_study).
