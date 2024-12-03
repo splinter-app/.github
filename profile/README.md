@@ -9,7 +9,7 @@ The pipeline accepts a user-provided source container, where documents are uploa
 
 To learn more about Splinter, visit our [website](https://splinter.com/) and [case study](https://splinter.com/case_study).
 
-To get started deploying Helios, visit our [instructions here.](https://github.com/splinter-app/splinter-infrastructure)
+To get started deploying Splinter, visit our [instructions here.](https://github.com/splinter-app/splinter-infrastructure)
 
 ## The Team
 
