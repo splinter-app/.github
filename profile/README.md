@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="splinter_banner">
+  <img src="./logo.svg" alt="splinter_banner">
 </p>
 
 ## Overview
