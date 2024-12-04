@@ -14,7 +14,7 @@ To get started deploying Splinter, visit our [instructions here.](https://github
 
 ## The Team
 
-**<a href="https://github.com/amirsadeghifar" target="_blank">Amir Sadeghifar</a>** _Software Engineer_ • City, FL
+**<a href="https://github.com/amirsadeghifar" target="_blank">Amir Sadeghifar</a>** _Software Engineer_ • Miami, FL
 
 **<a href="https://github.com/bouyang" target="_blank">Brian Ouyang</a>** _Software Engineer_ • Los Angeles, CA
 
