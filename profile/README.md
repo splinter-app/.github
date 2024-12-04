@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="./logo.svg" alt="splinter_banner">
 </p>
 
@@ -20,4 +20,4 @@ To get started deploying Splinter, visit our [instructions here.](https://github
 
 **<a href="https://github.com/camachoh1" target="_blank">Harold Camacho</a>** _Software Engineer_ • Toronto, Canada
 
-**<a href="https://github.com/rgd731" target="_blank">Ricardo Delgado</a>** _Software Engineer_ • City, TX
+**<a href="https://github.com/rgd731" target="_blank">Ricardo Delgado</a>** _Software Engineer_ • Houston, TX
